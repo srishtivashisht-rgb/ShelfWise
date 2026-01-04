@@ -16,4 +16,4 @@ For Customers:
 Personalized product recommendations, an AI shopping assistant, QR-based product education, and voice-enabled accessibility provide a guided, informed, and inclusive shopping experience.
 
 By integrating retailer operations and customer experience into a single intelligent platform, the system improves profitability, reduces product waste, and delivers sustainable, customer-centric retail.
-srishti vashisht
+
